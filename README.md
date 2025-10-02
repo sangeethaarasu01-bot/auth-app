@@ -9,6 +9,10 @@ This is a simple authentication-based app with **two types of users**:
 - Role-based access (Admin/User)
 - Admin can view Dashboard
 - User can view Booking List and Booking Form
+- Role is stored in **cookies** after login
+- On logout, the stored cookie is cleared automatically
+
+---
 
 ## 👥 User Credentials
 
